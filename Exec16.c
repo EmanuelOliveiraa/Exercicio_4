@@ -1,9 +1,9 @@
 #include <stdio.h>
-#define NA 10
+#define N 10
 
 int main(){
-    int num,i,j,repetido, N;
-    int vetor[10];
+    int num,i,j,repetido;
+    int vetor[N];
 
     printf("Digite %d numeros diferentes:\n", N);
 
